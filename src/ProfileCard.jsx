@@ -11,7 +11,7 @@ function ProfileCard({title, handle, image}) {
       <div className="card-content">
         <div className="media-content">
           <p className="title is-4">Title is {title}</p>
-          <p className="subbtitle is-6">Handle is {handle}</p>
+          <p className="subtitle is-6">Handle is {handle}</p>
         </div>
       </div>
 
